@@ -154,10 +154,6 @@ SternSecondAttempt/
 
 ## Ethical Considerations
 
-This project analyzes publicly available social media posts and their market impact. All data sources are public: Truth Social posts are archived at trumpstruth.org, oil prices come from FRED (a federal data service), and stock data is from Yahoo Finance. The AI classification via Gemini analyzes text sentiment and intent without accessing private communications.
-
-The fabrication evidence relies on official government denials — specifically, statements from Iran's Foreign Ministry carried by state news agencies. We present this evidence as-is without editorializing on the broader geopolitical context.
-
 Market manipulation is a serious allegation. Our analysis identifies statistical patterns consistent with manipulation but cannot prove intent without access to private communications or trading records. The composite score should be interpreted as a measure of suspicion, not a legal determination. We note that the SEC has historically used similar temporal and pattern-based analysis in enforcement actions, though typically supplemented with trading records and communications evidence that we do not have access to.
 
 ## References
