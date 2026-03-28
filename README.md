@@ -2,7 +2,9 @@
 
 **NYU Data Bootcamp — Midterm Project**
 
-# PowerPoint slides Link : https://docs.google.com/presentation/d/14i7_N7HxKQb0LUROpODcAIZuqEXpwV9vBxTNoyTFmZo/edit?usp=sharing
+## See our interactive app: https://market-manipulation.streamlit.app
+
+## Checkout our slide deck: https://docs.google.com/presentation/d/14i7_N7HxKQb0LUROpODcAIZuqEXpwV9vBxTNoyTFmZo
 
 ## Introduction
 
