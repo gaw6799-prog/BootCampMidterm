@@ -2,6 +2,8 @@
 
 **NYU Data Bootcamp — Midterm Project**
 
+# PowerPoint slides Link : https://docs.google.com/presentation/d/14i7_N7HxKQb0LUROpODcAIZuqEXpwV9vBxTNoyTFmZo/edit?usp=sharing
+
 ## Introduction
 
 On March 23, 2026, Donald Trump posted on Truth Social claiming "productive conversations" with Iran were underway during the Iran crisis. Oil prices dropped over 13% as markets anticipated de-escalation. Hours later, Iran's Foreign Ministry explicitly denied any talks had taken place, accusing Trump of using "fake news to manipulate the financial and oil markets."
