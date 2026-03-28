@@ -1,10 +1,8 @@
 # Trump Oil Market Manipulation Forensics
 
-**NYU Data Bootcamp — Midterm Project**
+### See our interactive app: https://market-manipulation.streamlit.app
 
-## See our interactive app: https://market-manipulation.streamlit.app
-
-## Checkout our slide deck: https://docs.google.com/presentation/d/14i7_N7HxKQb0LUROpODcAIZuqEXpwV9vBxTNoyTFmZo
+### Checkout our slide deck: https://docs.google.com/presentation/d/14i7_N7HxKQb0LUROpODcAIZuqEXpwV9vBxTNoyTFmZo
 
 ## Introduction
 
